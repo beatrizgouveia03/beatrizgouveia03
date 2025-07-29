@@ -13,10 +13,10 @@
 
 
 ### 🔨 Languages and Tools:
-<a href="https://www.java.com" target="_blank"><img alt="Java" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" /></a>
-<a href="https://cplusplus.com/" target="_blank"><img alt="cplusplus" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /></a>
-<a href="https://blender.org/" target="_blank"><img alt="blender" height ="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" /></a>
-<a href="https://unity.com" target="_blank"><img alt="blender" height ="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" /></a>
+<a href="https://www.java.com" target="_blank"><img align="center" alt="Java" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" /></a>
+<a href="https://cplusplus.com/" target="_blank"><img align="center" alt="cplusplus" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /></a>
+<a href="https://blender.org/" target="_blank"><img align="center" alt="blender" height ="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" /></a>
+<a href="https://unity.com" target="_blank"><img align="center" alt="blender" height ="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" /></a>
 
 
 ### 📊 Github Stats
@@ -24,6 +24,8 @@
   
 ![Stats Overview](https://raw.githubusercontent.com/beatrizgouveia03/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/beatrizgouveia03/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 
 ### 🛠️ My Projects
