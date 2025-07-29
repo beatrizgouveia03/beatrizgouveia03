@@ -8,9 +8,9 @@
 - 🔭 &nbsp; I’m currently working as a **3D model artist**
 - 🌱 &nbsp; I’m currently learning CyberSecurity; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/beatrizgouveia03?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech or art related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/beatriz-gouveia-7568831a9/)
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1kj5fy-viTNRWa4uXE1svk6rDb4qu02DA/view?usp=sharing)
 
 
 ### 🔨 Languages and Tools:
