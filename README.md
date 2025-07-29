@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Beatriz Gouveia!
-<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/linkedin-plain.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/linkedin-plain.svg" height='24px'/></a>
 
 <br/>
 <br/>
@@ -18,8 +18,8 @@
 <br/>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/java-plain.svg"></a>
-<a href="https://cplusplus.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/cplusplus-plain.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/java-plain.svg"/></a>
+<a href="https://cplusplus.com/" target="_blank"><img align="left" alt="cplusplus" height ="42px" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/cplusplus-plain.svg" /></a>
 
 <br/>
 
