@@ -20,8 +20,8 @@
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" /></a>
 <a href="https://cplusplus.com/" target="_blank"><img align="left" alt="cplusplus" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" /></a>
-<a href="https://blender.org/" target="_blank"><img align="left" alt="blender" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" /></a>
-<a href="https://unity.com" target="_blank"><img align="left" alt="blender" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" /></a>
+<a href="https://blender.org/" target="_blank"><img align="left" alt="blender" height ="84px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" /></a>
+<a href="https://unity.com" target="_blank"><img align="left" alt="blender" height ="84px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" /></a>
 
 <br>
 <br>
