@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Beatriz Gouveia!
-<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/linkedin-plain.svg" height='24px'/></a>
+<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" height="24px"align='left' alt="linkedin"/>
+</a>
 
 <br/>
 <br/>
