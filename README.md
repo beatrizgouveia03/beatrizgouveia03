@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Beatriz Gouveia!
-<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/linkedin-plain.svg" height='18px'/></a>
 
 <br/>
 <br/>
@@ -15,15 +15,13 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/beatriz-gouveia-7568831a9/)
 - 📝 &nbsp; Checkout my [resume]()
 
-<br>
+<br/>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/java-plain.svg"></a>
+<a href="https://cplusplus.com/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/assets/cplusplus-plain.svg"></a>
 
-<br>
+<br/>
 
 
 ### 📊 Github Stats
@@ -34,6 +32,6 @@
 
 </a>
 
-<br>
+<br/>
 
 ### 🛠️ My Projects
