@@ -1,10 +1,8 @@
 ## Hey 👋, I'm Beatriz Gouveia!
-<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" height="64px"align='left' alt="linkedin"/>/</a>
+<a href='https://www.linkedin.com/in/beatriz-gouveia-7568831a9/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" height="64px" align='left' alt="linkedin"/>/</a>
 
 <br>
 <br>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/beatrizgouveia03/beatrizgouveia03/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -28,7 +26,7 @@
 
 
 ### 📊 Github Stats
-<a align="center" href='https://github.com/beatrizgouveia03/github-stats-transparent'>
+<a align="right" href='https://github.com/beatrizgouveia03/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/beatrizgouveia03/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/beatrizgouveia03/github-stats-transparent/output/generated/languages.svg)
